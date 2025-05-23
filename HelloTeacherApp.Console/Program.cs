@@ -8,7 +8,7 @@ namespace HelloTeacherApp.ConsoleApp
 
         public static void Main(string[] args)
         {
-            Console.WriteLine($"Hello, {TeacherName}!");
+            Console.WriteLine($"Hello, test {TeacherName}!");
         }
     }
 }
